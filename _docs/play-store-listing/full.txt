@@ -1,0 +1,33 @@
+Is 68° with dry winter air actually comfortable? Is 76° at 60% humidity too muggy? Comfort Gauge answers in one glance, and tells you why.
+
+Set a temperature and a humidity, and Comfort Gauge judges the air on two separate axes, the same way building-comfort engineers do:
+
+• Thermal comfort: is it the right temperature? Uses the PMV/PPD model from ISO 7730 and ASHRAE Standard 55 to predict the share of people who would feel too warm or too cool.
+• Humidity comfort: is the air too dry or too damp? Uses relative humidity and dew point, with the research-backed 40–60% sweet spot and ASHRAE's dew point limit.
+
+The worse of the two sets the verdict: Ideal, Good, Marginal, Poor or Bad. The color shows the cause: blue for cold, orange/red for hot, tan for dry, purple for humid.
+
+COMFORT MAP
+A 2-D map of temperature versus humidity, with every point colored by comfort. The green island is where most people are comfortable. Drag anywhere on the map to set both values at once.
+
+FEELS-LIKE GAUGE
+A big "feels like" gauge, plus four small gauges side by side:
+• Heat Index (US National Weather Service)
+• Apparent Temperature (Australian Bureau of Meteorology)
+• Humidex (Environment Canada)
+• Dew Point
+
+These models disagree with each other, and that's expected. Seeing all four shows you the full picture.
+
+LEARN THE SCIENCE
+A built-in guide explains how each model works, shows live charts of comfort versus temperature and humidity, and links every source.
+
+MADE FOR EVERYDAY USE
+• °F or °C, switch any time
+• Works fully offline
+• No ads, no accounts, no tracking, no permissions
+• Fits on one screen, phone or tablet
+
+Good for setting a thermostat or humidifier, understanding why a room feels "off", or just learning how comfort actually works.
+
+Comfort Gauge assumes seated or light activity, still indoor air and typical indoor clothing. It is an educational tool, not a medical or safety device.
