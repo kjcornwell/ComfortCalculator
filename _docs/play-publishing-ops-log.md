@@ -15,3 +15,13 @@ Live log of every Play Console / Play API / Cloud operation. Newest at the botto
 | 6 | 2026-10-30 | Local | Signed `bundleRelease` 1.0.0 (1): `app-release.aab` 2,712,950 bytes; upload cert SHA-256 08:C6:8B:4C:…:B6:6F | comfortgauge | BUILD SUCCESSFUL |
 | 7 | 2026-10-30 | GitHub | Pushed `main` (first push) to kjcornwell/ComfortCalculator; enabled Pages (main, /docs); set repo description + homepage | ComfortCalculator | ✅ Privacy URL https://kjcornwell.github.io/ComfortCalculator/privacy.html returns 200 |
 | 8 | 2026-10-30 | Play API | READ: `play_publish.py status` | com.root3.comfortgauge | 404 Package not found (app not created yet) |
+| 9 | 2026-10-30 | Play Console | Kevin created the app (Free, declarations accepted) | app id 4972851072932612191 | ✅ |
+| 10 | 2026-10-30 | Play API | READ: status | com.root3.comfortgauge | SA has access; all tracks empty |
+| 11 | 2026-10-30 | Play API | **Uploaded first AAB** 1 (1.0.0) to **internal**, status **draft** (draft app), en-US notes; edit committed | com.root3.comfortgauge | ✅ committed. The API accepted the first upload; no manual upload was needed |
+| 12 | 2026-10-30 | Play API | Listing en-US: title, short (78) + full (1,909) description; details (contact email, website); icon, feature graphic, 5 phone screenshots; edit committed | com.root3.comfortgauge | ✅ committed |
+| 13 | 2026-10-30 | Play Console | App content: Privacy policy URL saved (Pages privacy.html) | Comfort Gauge | ✅ saved |
+| 14 | 2026-10-30 | Play Console | App content: Ads = No; Sign in details = no restricted access; Advertising ID = No (verified APK declares no AD_ID); Government app = No; Financial features = none; Health = none | Comfort Gauge | ✅ all saved |
+| 15 | 2026-10-30 | Play Console | Target audience: 13–15, 16–17, 18+ | Comfort Gauge | ✅ saved |
+| 16 | 2026-10-30 | Play Console | Data safety: collects/shares required data = No → "No data collected / No data shared" | Comfort Gauge | ✅ saved |
+| 17 | 2026-10-30 | Play Console | Content rating: email + category "All Other App Types" filled; IARC Terms checkbox | Comfort Gauge | **Blocked** by auto-mode classifier [Consent Given For The User]. Kevin to tick it and click Next |
+| 18 | 2026-10-30 | Play Console | Store settings: category **Weather** (contact email + website already set via API) | Comfort Gauge | ✅ saved |
