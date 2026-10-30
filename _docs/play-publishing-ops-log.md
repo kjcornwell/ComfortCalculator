@@ -13,3 +13,5 @@ Live log of every Play Console / Play API / Cloud operation. Newest at the botto
 | 4 | 2026-10-30 | Play Console | READ: All apps list (navigated away from the unsubmitted form) | 3Root | App not created yet |
 | 5 | 2026-10-30 | Play Console | Re-filled Create app form (name, package available, type App) | 3Root | Filled; **not submitted**. Waiting for Kevin: Free + 2 declarations + Create app |
 | 6 | 2026-10-30 | Local | Signed `bundleRelease` 1.0.0 (1): `app-release.aab` 2,712,950 bytes; upload cert SHA-256 08:C6:8B:4C:…:B6:6F | comfortgauge | BUILD SUCCESSFUL |
+| 7 | 2026-10-30 | GitHub | Pushed `main` (first push) to kjcornwell/ComfortCalculator; enabled Pages (main, /docs); set repo description + homepage | ComfortCalculator | ✅ Privacy URL https://kjcornwell.github.io/ComfortCalculator/privacy.html returns 200 |
+| 8 | 2026-10-30 | Play API | READ: `play_publish.py status` | com.root3.comfortgauge | 404 Package not found (app not created yet) |
