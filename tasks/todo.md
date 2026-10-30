@@ -11,22 +11,22 @@ Plan: `~/.claude/plans/working-with-new-project-tingly-jellyfish.md`
 - [x] testDebugUnitTest green (26/26), assembleDebug OK
 
 ## Phase 2 — main screen
-- [ ] Theme (palette, dark only, no dynamic color, tnum)
-- [ ] Header: title, °F/°C segmented toggle, ⓘ
-- [ ] Temperature + humidity sliders (gradient tracks, 30dp thumbs, readouts)
-- [ ] Hero card with Map tab: cached bitmap (coarse→fine on Default), crosshair, marker, edge arrow, drag sets both
-- [ ] Legend row
-- [ ] Verdict card (emoji, level, why, meta, tinted background)
-- [ ] Four mini gauges
-- [ ] Fits 360×640dp with no scroll; content capped at 520dp
-- [ ] assembleDebug + emulator screenshot at 65°F / 0%
+- [x] Theme (palette, dark only, no dynamic color, tnum)
+- [x] Header: title, °F/°C segmented toggle, ⓘ
+- [x] Temperature + humidity sliders (gradient tracks, 30dp thumbs, readouts)
+- [x] Hero card with Map tab: cached bitmap (coarse→fine on Default), crosshair, marker, edge arrow, drag sets both
+- [x] Legend row
+- [x] Verdict card (emoji, level, why, meta, tinted background)
+- [x] Four mini gauges
+- [x] Fits 360×640dp with no scroll; content capped at 520dp
+- [x] assembleDebug + emulator screenshot at 65°F / 0%
 
 ## Phase 3 — gauge tab, info, persistence, a11y, UI test
-- [ ] Big feels-like gauge tab (legend hidden)
-- [ ] Info screen: verbatim text, two Canvas charts, RH + dew-point bands, source links, Done/back
-- [ ] DataStore persistence (unit, tab)
-- [ ] Accessibility: slider stateDescription, map contentDescription, 48dp targets
-- [ ] MapDragTest (androidTest) passes
+- [x] Big feels-like gauge tab (legend hidden)
+- [x] Info screen: verbatim text, two Canvas charts, RH + dew-point bands, source links, Done/back
+- [x] DataStore persistence (unit, tab)
+- [x] Accessibility: slider stateDescription, map contentDescription, 48dp targets
+- [x] MapDragTest (androidTest) passes
 - [ ] Deviation summary + review section
 
 ## Review
