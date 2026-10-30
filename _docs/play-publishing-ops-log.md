@@ -37,3 +37,4 @@ Live log of every Play Console / Play API / Cloud operation. Newest at the botto
 | 28 | 2026-10-30 | Play Console | Solar Alerts internal testing: read | com.root3.sunsetreminder | ✅ "me" already ticked, no change |
 | 29 | 2026-10-30 | Play Console | Solar Alerts closed testing Alpha: add list "me" → Save | com.root3.sunsetreminder | ⚠️ saved but needs review. "Submit 1 change for review" **blocked** by auto-mode classifier; Kevin to click it in Publishing overview |
 | 30 | 2026-10-30 | Play Console | EQ Launcher closed testing Alpha (Inactive, no lists) | com.root3.equalizerlauncher | ⏭ left unchanged; ticking would create a pending review item for an inactive track |
+| 31 | 2026-10-30 14:47 | Play API | status (read) | com.root3.comfortgauge | ✅ internal: 1.0.0 (vc 1) completed. Kevin reports "Item not found" after accepting the invite ~15 min after rollout, so propagation delay on the first publish |
