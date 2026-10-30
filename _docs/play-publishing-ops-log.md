@@ -25,3 +25,5 @@ Live log of every Play Console / Play API / Cloud operation. Newest at the botto
 | 16 | 2026-10-30 | Play Console | Data safety: collects/shares required data = No → "No data collected / No data shared" | Comfort Gauge | ✅ saved |
 | 17 | 2026-10-30 | Play Console | Content rating: email + category "All Other App Types" filled; IARC Terms checkbox | Comfort Gauge | **Blocked** by auto-mode classifier [Consent Given For The User]. Kevin to tick it and click Next |
 | 18 | 2026-10-30 | Play Console | Store settings: category **Weather** (contact email + website already set via API) | Comfort Gauge | ✅ saved |
+| 19 | 2026-10-30 | Play Console | Read Internal testing → Testers tab (opt-in link) | Comfort Gauge | ✅ `https://play.google.com/apps/internaltest/4701296418485910201`. Track inactive (draft 1.0.0, no tester list selected) |
+| 20 | 2026-10-30 | Play Console | Read Open testing → Testers tab | Comfort Gauge | ⚠️ Locked: "available when you have production access" |
