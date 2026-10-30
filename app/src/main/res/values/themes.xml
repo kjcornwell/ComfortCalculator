@@ -1,7 +1,12 @@
 <resources>
     <style name="Theme.ComfortGauge" parent="android:Theme.Material.NoActionBar">
-        <item name="android:windowBackground">#0b1220</item>
-        <item name="android:statusBarColor">#0b1220</item>
-        <item name="android:navigationBarColor">#0b1220</item>
+        <item name="android:windowBackground">@color/cg_bg</item>
+        <item name="android:statusBarColor">@color/cg_bg</item>
+        <item name="android:navigationBarColor">@color/cg_bg</item>
+    </style>
+
+    <!-- Launch theme: shows the icon on the app background until MainActivity swaps to Theme.ComfortGauge. -->
+    <style name="Theme.ComfortGauge.Starting">
+        <item name="android:windowBackground">@drawable/splash_window</item>
     </style>
 </resources>

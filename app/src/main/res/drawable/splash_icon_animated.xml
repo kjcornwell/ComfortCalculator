@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector android:width="240dp" android:height="240dp" android:viewportWidth="108" android:viewportHeight="108">
+            <group android:scaleX="1.12" android:scaleY="1.12" android:pivotX="54" android:pivotY="54">
+            <path android:name="seg0" android:pathData="M29.000,66.000 A25.0,25.0 0 0,1 32.571,53.124" android:strokeColor="#3B82F6" android:strokeWidth="8.5" android:trimPathEnd="0" android:fillColor="#00000000"/>
+            <path android:name="cap0" android:pathData="M24.750,66.000 a4.25,4.25 0 1,0 8.500,0 a4.25,4.25 0 1,0 -8.500,0 Z" android:fillColor="#3B82F6" android:fillAlpha="0"/>
+            <path android:name="seg1" android:pathData="M33.033,52.384 A25.0,25.0 0 0,1 41.124,44.571" android:strokeColor="#93C5FD" android:strokeWidth="8.5" android:trimPathEnd="0" android:fillColor="#00000000"/>
+            <path android:name="seg2" android:pathData="M41.880,44.135 A25.0,25.0 0 0,1 66.120,44.135" android:strokeColor="#16A34A" android:strokeWidth="8.5" android:trimPathEnd="0" android:fillColor="#00000000"/>
+            <path android:name="seg3" android:pathData="M66.876,44.571 A25.0,25.0 0 0,1 74.967,52.384" android:strokeColor="#FDE047" android:strokeWidth="8.5" android:trimPathEnd="0" android:fillColor="#00000000"/>
+            <path android:name="seg4" android:pathData="M75.429,53.124 A25.0,25.0 0 0,1 79.000,66.000" android:strokeColor="#F97316" android:strokeWidth="8.5" android:trimPathEnd="0" android:fillColor="#00000000"/>
+            <path android:name="cap4" android:pathData="M74.750,66.000 a4.25,4.25 0 1,0 8.500,0 a4.25,4.25 0 1,0 -8.500,0 Z" android:fillColor="#F97316" android:fillAlpha="0"/>
+            <group android:name="drop" android:pivotX="54" android:pivotY="69" android:scaleX="0" android:scaleY="0">
+                <path android:pathData="M54,49.5 C54,49.5 47.4,57.6 47.4,62.5 A6.6,6.6 0 0,0 60.6,62.5 C60.6,57.6 54,49.5 54,49.5 Z">
+                    <aapt:attr name="android:fillColor">
+                        <gradient android:type="linear" android:startX="54" android:startY="49.5" android:endX="54" android:endY="69.1">
+                            <item android:offset="0" android:color="#FFC4B5FD"/>
+                            <item android:offset="1" android:color="#FF8B5CF6"/>
+                        </gradient>
+                    </aapt:attr>
+                </path>
+            </group>
+            <group android:name="marker" android:pivotX="54.000" android:pivotY="41.000" android:scaleX="0" android:scaleY="0">
+                <path android:pathData="M48.400,41.000 a5.6,5.6 0 1,0 11.200,0 a5.6,5.6 0 1,0 -11.200,0 Z" android:fillColor="#FFFFFFFF" android:strokeColor="#FF0B1220" android:strokeWidth="2"/>
+                <path android:pathData="M51.700,41.000 a2.3,2.3 0 1,0 4.600,0 a2.3,2.3 0 1,0 -4.600,0 Z" android:fillColor="#FF16A34A"/>
+            </group>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="seg0">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="trimPathEnd" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="0" android:duration="200" android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="cap0">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="fillAlpha" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="0" android:duration="60"/>
+        </aapt:attr>
+    </target>
+    <target android:name="seg1">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="trimPathEnd" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="110" android:duration="200" android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="seg2">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="trimPathEnd" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="220" android:duration="200" android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="seg3">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="trimPathEnd" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="330" android:duration="200" android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="seg4">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="trimPathEnd" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="440" android:duration="200" android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="cap4">
+        <aapt:attr name="android:animation">
+            <objectAnimator android:propertyName="fillAlpha" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="580" android:duration="60"/>
+        </aapt:attr>
+    </target>
+    <target android:name="drop">
+        <aapt:attr name="android:animation">
+            <set><objectAnimator android:propertyName="scaleX" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="200" android:duration="420" android:interpolator="@android:interpolator/overshoot"/><objectAnimator android:propertyName="scaleY" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="200" android:duration="420" android:interpolator="@android:interpolator/overshoot"/><objectAnimator android:propertyName="translateY" android:valueFrom="-10" android:valueTo="0" android:valueType="floatType" android:startOffset="200" android:duration="420" android:interpolator="@android:interpolator/fast_out_slow_in"/></set>
+        </aapt:attr>
+    </target>
+    <target android:name="marker">
+        <aapt:attr name="android:animation">
+            <set><objectAnimator android:propertyName="scaleX" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="520" android:duration="320" android:interpolator="@android:interpolator/overshoot"/><objectAnimator android:propertyName="scaleY" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:startOffset="520" android:duration="320" android:interpolator="@android:interpolator/overshoot"/></set>
+        </aapt:attr>
+    </target>
+</animated-vector>

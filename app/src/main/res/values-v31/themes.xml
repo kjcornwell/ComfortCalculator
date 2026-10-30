@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ComfortGauge.Starting">
+        <item name="android:windowSplashScreenBackground">@color/cg_bg</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_icon_animated</item>
+        <item name="android:windowSplashScreenAnimationDuration">900</item>
+    </style>
+</resources>
