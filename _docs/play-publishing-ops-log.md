@@ -27,3 +27,7 @@ Live log of every Play Console / Play API / Cloud operation. Newest at the botto
 | 18 | 2026-10-30 | Play Console | Store settings: category **Weather** (contact email + website already set via API) | Comfort Gauge | ✅ saved |
 | 19 | 2026-10-30 | Play Console | Read Internal testing → Testers tab (opt-in link) | Comfort Gauge | ✅ `https://play.google.com/apps/internaltest/4701296418485910201`. Track inactive (draft 1.0.0, no tester list selected) |
 | 20 | 2026-10-30 | Play Console | Read Open testing → Testers tab | Comfort Gauge | ⚠️ Locked: "available when you have production access" |
+| 21 | 2026-10-30 | Play Console | Content rating questionnaire (All Other App Types, every answer No) → Save → submit | Comfort Gauge | ✅ IARC Completed 2:31 PM. ClassInd L, ESRB E, PEGI 3, USK 0, IARC 3+ |
+| 22 | 2026-10-30 | Play Console | Internal testing → Testers: select list "me" (1 user) | Comfort Gauge | ✅ saved |
+| 23 | 2026-10-30 | Play Console | Internal testing release 1.0.0 (vc 1) → Save and publish | Comfort Gauge | ✅ Active, "Available to internal testers" 2:32 PM. Warning only: no native debug symbols. App name shows temporary "com.root3.comfortgauge (unreviewed)" |
+| 24 | 2026-10-30 | Play Console | Read Publishing overview | Comfort Gauge | 8 changes not yet submitted for review (listing, content rating, target audience, privacy policy, ads, data safety, health, category). Managed publishing off. Not submitted, awaiting Kevin |
